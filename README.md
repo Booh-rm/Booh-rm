@@ -15,8 +15,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booh-rm&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github.com/Booh-rm/Media/blob/main/3.gif" />
-</p>
-
 ----------------------------------
