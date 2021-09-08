@@ -10,9 +10,12 @@
 - 🌱 I’m currently learning TypeScript, JavaScript ☺
 
 ----------------------------------
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Booh-rm&theme=tokyonight&show_icons=true" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Booh-rm&theme=tokyonight&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booh-rm&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Booh-rm&layout=compact&theme=tokyonight" />
+</p>
 
 ----------------------------------
