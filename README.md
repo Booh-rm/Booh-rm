@@ -35,3 +35,12 @@
 <br/>
 
 ----------------------------------
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?center=false&vCenter=true&lines=Encrypt+the+clouds+of+my+thoughts"></a>
+</p>
+
+----------------------------------
+
+
