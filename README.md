@@ -37,10 +37,15 @@
 ----------------------------------
 
 <p align="center">
+<a href="https://open.spotify.com/user/dmoc8zhqq1qn8539fsqwiqyf6">
+  <img src="https://spotify-readme-psi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+</a>
+
+----------------------------------
+
+<p align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?center=false&vCenter=true&lines=Encrypt+the+clouds+of+my+thoughts"></a>
 </p>
 
 ----------------------------------
-
-
