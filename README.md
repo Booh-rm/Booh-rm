@@ -49,7 +49,3 @@
 </p>
 
 ----------------------------------
-
-<audio autoplay loop preload="metadata" style=" width:300px;">
-    <source src="https://www.dropbox.com/s/c23j2zdc5o6ry9n/Dyeing.mp3?dl=1" type="audio/mpeg">
-</audio><br />
