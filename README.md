@@ -28,8 +28,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Booh-rm&theme=tokyonight&show_icons=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Booh-rm&layout=compact&theme=tokyonight" />
+<p align="center" width="400" height="341">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Booh-rm&layout=compact&theme=tokyonight"/>
 </p>
 
 <br/>
@@ -39,6 +39,7 @@
 <p align="center">
 <a href="https://open.spotify.com/user/dmoc8zhqq1qn8539fsqwiqyf6">
   <img src="https://spotify-readme-psi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+  <img src="https://github.com/Booh-rm/Media/blob/main/2748314.png" width="150"></a>
 </a>
 
 ----------------------------------
@@ -49,3 +50,4 @@
 </p>
 
 ----------------------------------
+
