@@ -3,7 +3,7 @@
 
 # <p align=center> ![alt text](https://github.com/Booh-rm/Media/blob/main/2.gif) Hi, I’m Booh ![alt text](https://github.com/Booh-rm/Media/blob/main/2.gif) </p>
 
-<h4 align="center" style="margin-bottom: 1px"><b>Systems engineering student</b></h4>
+<h4 align="center" style="margin-bottom: 1px"><b>Computer systems engineering student</b></h4>
 <h5 align="center" style="margin-bottom: 1px" >I want to code my dreams</h5>
 
 ----------------------------------
